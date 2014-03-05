@@ -1,4 +1,0 @@
-triplex
-=======
-
-Bitcoin Hedge Fund
